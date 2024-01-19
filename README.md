@@ -1,4 +1,5 @@
 # Git-basics
 This is my first repository
 <br>
-Author - Prudhivi Rachan
+Author - Prudhivi Rachan Kumar Sai
+
